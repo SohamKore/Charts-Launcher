@@ -2,7 +2,7 @@
 
 # Features:
 
-**Launch 100's of Charts in a Single Click 
+<h2 style="color:red;font-size:xx-large;">Launch 100's of Charts in a Single Click </h2>
 
  - Trading charts launcher that opens trading tabs with custom links, size, and position.
  - Allows you to position any window wherever you want.
