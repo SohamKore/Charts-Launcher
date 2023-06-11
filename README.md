@@ -14,7 +14,7 @@
  ## Screenshots & GIFS
  ![Untitled video - Made with Clipchamp (1)](https://github.com/SohamKore/Charts-Launcher/assets/119067189/18e88100-064b-4f9a-82c7-1c532e885abb)
  <br<hr>
- You can customize the code create your own launcher or Screener, Set up layouts, create windows, Set size, Position and Other Stuff.
+ # You can customize the code create your own launcher or Screener, Set up layouts, create windows, Set size, Position and Other Stuff.
  <br><hr>
 
 ![ChartsInFullGlory (1)](https://github.com/SohamKore/Charts-Launcher/assets/119067189/cd1c4652-381d-42d3-86aa-f6fc4572da27)
