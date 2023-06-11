@@ -1,5 +1,9 @@
 # Charts Launcher / Screener / Charting Tool
 
+# <a href="https://sohamkore.github.io/Charts-Launcher/">Preview / Run Chart Launcher:</a>
+**This tool is designed to launch charts on your PC or laptop. Please note that the windows may appear overlapping each other multiple times, as I have customized it for my monitor. You will need to customize the tool according to your own monitor setup.
+https://sohamkore.github.io/Charts-Launcher/
+
 # Features:
 
 <h2 style="color:red;font-size:xx-large;">Launch 100's of Charts in a Single Click </h2>
