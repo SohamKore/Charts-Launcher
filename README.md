@@ -15,3 +15,36 @@
 ![ChartsInFullGlory (1)](https://github.com/SohamKore/Charts-Launcher/assets/119067189/cd1c4652-381d-42d3-86aa-f6fc4572da27)
 
 
+
+
+
+
+
+
+
+
+
+
+
+Trading charts launcher
+Custom trading tabs
+Custom links
+Size and position customization
+Window positioning
+Window size adjustment
+Different link for each window
+Website launcher
+Cache storage
+Skip login
+Trading tools
+Financial charts
+Technical analysis
+Stock market
+Cryptocurrency
+Trading platform
+Web application
+Open-source
+GitHub repository
+Charting tool
+
+
