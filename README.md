@@ -1,4 +1,4 @@
-# Charts Launcher
+# Charts Launcher / Screener / Charting Tool
 
 # Features:
 
