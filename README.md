@@ -16,8 +16,6 @@ https://sohamkore.github.io/Charts-Launcher/
  - Allows launching any website you want.
  - Stores cache and enables skipping log in when possible.
 
-# Get full tool now Starting $1/₹82.44 Only
-# Here : <a href="https://bravebooks.sell.app/product/charts-launcher-tool?info=faq">Download Tool</a>
 
  ## Screenshots & GIFS
  ![Untitled video - Made with Clipchamp (1)](https://github.com/SohamKore/Charts-Launcher/assets/119067189/18e88100-064b-4f9a-82c7-1c532e885abb)
